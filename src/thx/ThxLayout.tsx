@@ -21,9 +21,9 @@ export const ThxLayout = () => {
           href="alfabank://investments/open_investments_account?type=INVESTBOX"
           block
           view="secondary"
-          onClick={() => window.gtag('event', 'end_4428_var1')}
+          onClick={() => window.gtag('event', 'end_4428_var2')}
         >
-          Буду ждать
+          Открыть Финансовую копилку
         </ButtonMobile>
       </div>
     </>
