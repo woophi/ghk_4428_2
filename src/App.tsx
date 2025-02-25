@@ -49,7 +49,8 @@ export const App = () => {
                 Золотая
               </Typography.TitleResponsive>
               <Typography.Text view="primary-small">
-                Инвестиции в золото без забот о хранении — через обезличенные металлические счета (ОМС)
+                ИИнвестиции в золото через паевые инвестиционные фонды — доход от роста цен на золото без прямой покупки
+                металла
               </Typography.Text>
             </div>
             <img src={gold} width={90} height={90} />
