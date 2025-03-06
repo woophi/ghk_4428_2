@@ -106,7 +106,7 @@ export const App = () => {
             view="primary"
             href="alfabank://investments/open_investments_account?type=INVESTBOX"
             disabled={loading}
-            onClick={() => submit()}
+            onClick={() => submit(false)}
           >
             Выбрать
           </Button>
